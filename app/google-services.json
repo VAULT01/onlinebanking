@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "614657748779",
+    "firebase_url": "https://finale-f41aa.firebaseio.com",
+    "project_id": "finale-f41aa",
+    "storage_bucket": "finale-f41aa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:614657748779:android:4f34688bb586980f",
+        "android_client_info": {
+          "package_name": "com.example.hp.firebaseloginapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "614657748779-8i5rqrscjupvjvqraq7t6kl3nr1oig4h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoIOeliWXVQB-NBVPqUeHy7sSwA36dcqI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
